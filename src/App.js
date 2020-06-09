@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import Markdown from 'react-markdown'
+const Markdown = require('react-markdown')
 
 import './App.css';
 const textStyle={
