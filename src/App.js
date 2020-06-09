@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './App.css';
-import 'react-draft-wysiwyg/dist/react-draft-wysiwyg.css';
 import Markdown from 'react-markdown'
 
+import './App.css';
 const textStyle={
   fontSize: "25px",
   fontFamily: "Roboto"
